@@ -1,0 +1,6 @@
+.likeBtn{
+    background: transparent;
+    border: none;
+     cursor: pointer; /* on hover shows that it is clickable*/
+    outline: none;
+}
